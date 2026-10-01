@@ -160,8 +160,6 @@ For quick local testing and evaluation, the following pre-configured accounts ar
 
 **Sama Spoorthi Reddy**  
 - **GitHub:** [@samaspoorthireddy](https://github.com/samaspoorthireddy)  
-- **Role Target:** Special Engineer Trainee (Software Development / Full-Stack Web Engineering)
-
 ---
 
 ## 📜 License
